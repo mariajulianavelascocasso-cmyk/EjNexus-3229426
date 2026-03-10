@@ -2,7 +2,7 @@
 Este repositorio es parte de un laboratorio práctico sobre metodología Kanban con GitHub Projects.
 
 ## Equipo
-- [Jesus]
+- [Jesus Sanchez]
 - [Ary Sebastian Flor]
 - [Alejandra]
 
