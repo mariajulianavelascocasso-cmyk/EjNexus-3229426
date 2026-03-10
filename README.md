@@ -4,7 +4,7 @@ Este repositorio es parte de un laboratorio práctico sobre metodología Kanban 
 ## Equipo
 - [Jesus]
 - [Ary Sebastian Flor]
-- [Nombre Desarrollador 3]
+- [Alejandra]
 
 ## Tecnologías utilizadas
 - GitHub Projects
